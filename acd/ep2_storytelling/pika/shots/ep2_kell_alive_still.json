@@ -1,0 +1,18 @@
+{
+  "id": "ASSET_EP2_KELL_ALIVE",
+  "slug": "ep2_kell_alive",
+  "scene": "Episode 02 — asset: Attaché Rovin Kell ALIVE at his table, writing, in the reconstruction's cold light",
+  "shot": "Derived image-to-image from the Sc03 frame so face, coat, seat and carriage match; ONLY his condition changes. Authority for Sc04 v5 Shot 2 and the coat in reel1 P1. Fixes the v4 fault where the corpse frame owned his state.",
+  "api_id": "openai/gpt-image-2/image-to-image",
+  "output_ext": "png",
+  "reference_images": [
+    "pika/refs/ep2_kell_from_sc03.jpg"
+  ],
+  "input": {
+    "aspect_ratio": "21:9",
+    "resolution": "2K",
+    "quality": "high",
+    "num_images": 1
+  },
+  "prompt": "ONE SINGLE CINEMA FRAME of photoreal live-action production photography, anamorphic 2.39:1, 65mm at T2.8.\n\nUSE THE MAN, HIS COAT, HIS SEAT, HIS TABLE, THE LAMP AND THE CARRIAGE IN THE REFERENCE EXACTLY AS THEY ARE, AND CHANGE ONLY HIS CONDITION. In the reference he is dead and frozen. IN THIS PHOTOGRAPH IT IS EARLIER THAT MORNING AND HE IS ALIVE AND WELL.\n\nHIM, ALIVE: a clean-shaven man in his fifties with GREY HAIR, in a HEAVY PALE GREY-OATMEAL WOOL OVERCOAT with wide notched lapels. HIS COAT IS PALE GREY — NOT black, NOT dark brown, NOT navy. HIS EYES ARE OPEN and looking down at his work. His skin is a LIVING, WARM, NATURAL COLOUR with colour in his lips and cheeks, and his grey hair is ordinary dry hair. He sits upright at his RIGHT-HAND WINDOW TABLE, the clear dry window beside him onto a flat white frozen lake.\n\nHE IS WRITING: a PEN in his right hand, mid-stroke, on a cream printed form lying flat on the white tablecloth; his left hand rests flat on the form, holding it still. A calm, busy civil servant finishing a form before a deadline he has already calculated. Not sad, not afraid, not noble — busy.\n\nEVERYTHING ABOUT HIM IS ORDINARY AND ALIVE: his skin, his hands, his coat, the cloth and the table are clean and dry, with no rime, no white crystals, no white skin and no stiffened fabric anywhere.\n\nTHE LIGHT ON HIM IS THE ONE OTHER CHANGE: he and his table are lit COLD, FLAT AND BLUE-WHITE FROM ABOVE — the even 6500K light of an overcast pier — while the walnut carriage around him keeps its warm amber lamps. He is a cold-lit man in a warm room.\n\nPalette: pale oatmeal #CFC6B6, cloth white #EEEAE0, pier blue #8FA3B0, carriage amber #B8801F.\n\nSINGLE PHOTOGRAPH — no panels, no grid, no insets, no labels, no captions, and no readable text on the form. Photoreal, tactile wool, skin, paper and linen. No glow, no magical light, no particles, no lens flare, no ornament, and no Victorian, Edwardian or steampunk detail."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ASSET_EP2_BEATRICE_FROST",
+  "slug": "ep2_beatrice_frost",
+  "scene": "Episode 02 — asset: Beatrice while the route is drawing from her (frost at the knuckles and throat)",
+  "shot": "Plate for Sc16 v4 Shot 4, Sc17 v4 and reel2 C2. Image-to-image from her sheet (§122); chamber from ep2_recip_lock_v3. Matched-state plate for the new 'Beatrice is the next source' thread (§173).",
+  "api_id": "openai/gpt-image-2/image-to-image",
+  "output_ext": "png",
+  "reference_images": [
+    "pika/refs/beatrice_turnaround.png",
+    "pika/refs/ep2_recip_lock_v3.jpg"
+  ],
+  "input": {
+    "aspect_ratio": "21:9",
+    "resolution": "2K",
+    "quality": "high",
+    "num_images": 1
+  },
+  "prompt": "ONE SINGLE CINEMA FRAME of photoreal live-action production photography, anamorphic 2.39:1, 50mm at T2, shallow depth of field.\n\nUSE THE WOMAN IN REFERENCE 1 EXACTLY AS SHE IS — her exact face, her exact hair and her exact costume — and place her in the stone chamber of reference 2. COPY HER FACE, HAIR AND COSTUME PRECISELY FROM REFERENCE 1 AND CHANGE NOTHING ABOUT THEM: a WOMAN in her early forties, dark hair in a TIGHT HIGH TOPKNOT, in a BLACK ASYMMETRICAL WRAP COAT wrapped and belted across the body over a full-length OXBLOOD-AND-RUST underskirt panel. She has NO cream panel, NO tall collar, NO cuffs, NO ribbon, NO veil and NO jewellery.\n\nTHE PLACE, EXACTLY AS REFERENCE 2: THE CHAMBER: a small round room of COARSE, COLD, WEATHERED DARK GREY GRANITE, almost charcoal in shadow, salt-stained and pitted, laid in large heavy irregular blocks — NOT pale, NOT cream, NOT limestone. A row of small HORIZONTAL openings, each a hand's width across and only a few centimetres high, is cut into the curved wall at waist height with a thin warm amber light deep inside each one. Directly under them the stone sill is hollowed into a long smooth trough by four hundred years of hands. One stone bench. One plain doorway onto a flat white sky and the frozen pier. NO MACHINERY ANYWHERE.\n\nTHE MOMENT: she stands at the slot wall, three-quarter on to the lens, her RIGHT SLEEVE PUSHED BACK OFF THE WRIST, her bare right hand raised at the mouth of one slot, a hand's width from going in. Her face is calm and decided — a professional doing the next necessary thing, not afraid and not heroic.\n\nONE THING IS DIFFERENT FROM HER REFERENCE, AND IT IS THE POINT OF THIS PHOTOGRAPH: FINE WHITE FROST IS GROWING OUTWARD FROM HER BODY.\n— On the BACK OF HER RIGHT HAND, delicate white rime crystals feather outward from the KNUCKLES across the backs of the fingers, the needles pointing AWAY from the skin.\n— At the BASE OF HER THROAT, on the edge of her black collar, sits a small STARBURST of white rime about the size of a coin, its needles radiating outward from her.\nTHE FROST IS ON HER AND NOWHERE ELSE. The stone, the slots, the sill and the air carry NO frost at all.\n\nHER BREATH IS VISIBLE as a soft white plume in front of her mouth.\n\nLIGHT: two practical sources, never blended — COLD blue-white 6500K daylight from the doorway on one side of her face, WARM amber 3200K from the slots on the other side.\n\nPalette: coat black #16181A, oxblood #6E2A22, slot amber #A9721F, frost white #E9F1F4, granite #4A4B48.\n\nSINGLE PHOTOGRAPH — no panels, no grid, no insets, no labels, no captions, no text. Photoreal, tactile wool, skin, stone and real frost. No glow, no magical light, no particles, no lens flare, no ornament, and no Victorian, Edwardian or steampunk detail."
+}
